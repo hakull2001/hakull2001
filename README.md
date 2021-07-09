@@ -1,6 +1,5 @@
 ### Hi there 👋
-### Top languages:
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakull2001&theme=radical) -->
+
 <!--
 **hakull2001/hakull2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
